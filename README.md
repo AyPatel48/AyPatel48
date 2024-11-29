@@ -37,7 +37,7 @@ This project is a browser-based version of the classic Simon Game built with Jav
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/ayush-patel-780884214/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=plastic)]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/ayush-patel-780884214/))
 
 ---
 
