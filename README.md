@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm Ayush Patel 🚀
 ---
 
 ## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=AyPatel48&style=plastic&color=blue)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AyPatel48&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyPatel48&layout=compact&theme=radical)
