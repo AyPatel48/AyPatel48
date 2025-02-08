@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm Ayush Patel 🚀
 ---
 
 ## About Me
-- 🔭 I’m currently working on **Angela Yu Web Dev Bootcamp course**
-- 🌱 I’m learning **ReactJS**
-- 💬 Ask me about **Automation**
+- 🔭 I’m currently working on **Somone's portfolio website**
+- 🌱 I’m learning **AWS**
+- 💬 Ask me about **Automation Testing, Web Development, DSA, AWS**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ayush-patel-780884214/)**
 - ⚡ Fun fact: **🐞 Debugging is my cardio – I secretly enjoy finding bugs.**
 
@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm Ayush Patel 🚀
 
 ## 🛠️ Tech Stack
 - **Languages:** C, C++, Java, Python, JavaScript
-- **Frameworks & Libraries:** NodeJS, ExpressJS, ReactJS, jQuery, Selenium, Jest
+- **Frameworks & Libraries:** Node.js, Express.js, React.js, jQuery, Selenium, Jest
 - **Tools:** Git, Docker
-- **Cloud Services:** Azure
+- **Cloud Services:** Azure, AWS
 
 ---
 
