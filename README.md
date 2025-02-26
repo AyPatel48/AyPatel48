@@ -17,14 +17,7 @@ Welcome to my GitHub profile! I'm Ayush Patel 🚀
 - **Languages:** C, C++, Java, Python, JavaScript
 - **Frameworks & Libraries:** Node.js, Express.js, React.js, jQuery, Selenium, Jest
 - **Tools:** Git, Docker
-- **Cloud Services:** Azure, AWS
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AyPatel48&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyPatel48&layout=compact&theme=radical)
+- **Cloud Services:** AWS [AWS Certified Cloud and AI Practitioner]
 
 ---
 
