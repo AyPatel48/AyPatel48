@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Ayush Patel 🚀
 ---
 
 ## About Me
-- 🔭 I’m currently working on **Somone's portfolio website**
+- 🔭 I’m currently working on **Somone's business website**
 - 🌱 I’m learning **AWS**
 - 💬 Ask me about **Automation Testing, Web Development, DSA, AWS**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ayush-patel-780884214/)**
